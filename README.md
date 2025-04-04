@@ -1,0 +1,2 @@
+# Consola
+Practica de consola
